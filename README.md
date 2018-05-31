@@ -9,8 +9,6 @@
 
 ### push_back funkcijos palyginimas
 
-Testuota iman 10 rezultatų vidurkį
-
 | Flag| Container      |  100000 |  1000000 |  10000000 |  100000000 |
 | ------------| ------------- |--------| --------|--------|--------|
 | -Od | std::vector      | 0.0069277 | 0.072547 | 0.149451 | 6.331194 |
